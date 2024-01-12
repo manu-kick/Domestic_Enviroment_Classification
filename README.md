@@ -1,5 +1,6 @@
 # Domestic_Enviroment_Classification
 Homework Number 2 For Machine Learning Course in Sapienza
+All the information about this project are in the report at the link: https://api.wandb.ai/report/sapienza_ml_2022_23/wemom697
 
 # Abstract
 The task chosen for this homework is the classification of domestic enviroments. The main goal behind this choice is to include the project in a real world website. The purpose of this website is to give people the opportunity to find new apartments in new buildings that meets specified requirements. So, when the rendering of an apartment are uploaded on the website, the inference process will attach the label of classification to the image; this information will be useful to then create automatic new filters based on new contents periodically added.
